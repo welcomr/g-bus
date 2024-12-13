@@ -1,7 +1,7 @@
 🚌 G-Bus : Le PoE pour RS485
 ============================
 
-<img src="img/blink.gif">
+<p align="center"><img src="img/blink.gif"></p>
 
 ## Véhiculez l'alimentation et les données de vos bus industriels dans un seul câble RJ45
 ### G-Bus est une spécification de mise en oeuvre ouverte, permettant de normaliser les bonnes pratiques et faciliter la compatibilité entre produits
