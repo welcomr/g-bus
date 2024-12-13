@@ -85,7 +85,7 @@ Lorsque ce n’est pas précisé, on *ne peut pas* présupposer qu’une aliment
 
 **Qui nous sommes ?** 
 ---------------------------------
-Le projet G-Bus est le fruit de la réflexion et de la recherche d’experts français en contrôle d'accès physique. Les ingénieurs de Gward et Welcomr ont travaillé main dans la main avec de nombreux intégrateurs de sûreté pour rendre les déploiements de sécurité électronique plus efficaces et mieux sécurisés tout en normalisant la mise en œuvre.
+Le projet G-Bus est le fruit de la réflexion et de la recherche d’experts français en contrôle d'accès physique. Les ingénieurs de Welcomr ont travaillé main dans la main avec de nombreux intégrateurs de sûreté pour rendre les déploiements de sécurité électronique plus efficaces et mieux sécurisés tout en normalisant la mise en œuvre.
 
 👉 *Vous avez des questions ? Des suggestions ?*
 
