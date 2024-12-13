@@ -8,6 +8,7 @@
 
 #### [Contactez-nous !](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=EXPERT)
 
+
 <BR /><BR />
 
 
@@ -28,7 +29,9 @@ Les paires de la RJ45 sont affectées de manière standardisée afin de permettr
 *  **Un bus de communication RS485**
 100% conforme EIA-485
 
+
 <BR /><BR />
+
 
 **Avantages**
 -------------
@@ -76,7 +79,9 @@ G-Bus est donc tout à fait adapté pour connecter des périphériques OSDP, tou
 Tous les périphériques ne nécessitent pas de puissance, or cela influe beaucoup sur le prix de la solution mise en oeuvre. L'alimentation de puissance est donc optionnelle en G-Bus. On parle de G-Bus Power et G-Bus Light selon respectivement que le bus transporte une alimentation de puissance ou non.
 Lorsque ce n’est pas précisé, on *ne peut pas* présupposer qu’une alimentation de puissance sera présente et donc on considère que c’est à minima un G-Bus Light.
 
+
 <BR /><BR />
+
 
 **Qui nous sommes ?** 
 ---------------------------------
