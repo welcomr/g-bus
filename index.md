@@ -67,9 +67,9 @@ Le déploiement n'utilise que des prises RJ45 standard, existantes ou non, mais 
 ---------------------------------
 
 
-| **Splitter RS485**  |  |
 | ------------ | ------------ |
-|Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.  |  ![Topologie étoile G-Bus](img/splitter.jpg)]
+|**Splitter RS485**
+Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.  |  ![Topologie étoile G-Bus](img/splitter.jpg)]
 
 
 #### [**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=SPLIT)
