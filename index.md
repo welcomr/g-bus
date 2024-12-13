@@ -62,31 +62,21 @@ Le déploiement n'utilise que des prises RJ45 standard, existantes ou non, mais 
 *  Possibilités d'observabilité et d'audit étendues
   
 
+<BR /><BR />
+
 
 **Des produits basés sur G-bus** 
 ---------------------------------
 
 
-| ------------ | ------------ |
-|**Splitter RS485**
-Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.  |  ![Topologie étoile G-Bus](img/splitter.jpg)]
+| **Splitter RS485** ||
+| :------------ | ------------ |
+| Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.<BR /><BR />[**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=SPLIT)  |  <img src="img/splitter.jpg" width="250" height="250"> |
+| **Hub RS485** ||
+| <img src="img/hub-light.png" width="250" height="250"> | Un Hub G-bus permet de connecter un ensemble de liaisons G-bus indépendantes pour former un bus.<BR />*  Câblage en étoile tout en respectant strictement la norme EIA-485<BR />*  Isolation de fonctionnement électrique et logique<BR />*  Facilité de diagnostic grâce aux leds par liaison<BR /><BR />[**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=HUB) |
 
 
-#### [**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=SPLIT)
-
-
-| **Hub RS485**  |  |
-| ------------ | ------------ |
-|Un Hub G-bus permet de connecter un ensemble de liaisons G-bus indépendantes pour former un bus.
-
-
-*  Câblage en étoile tout en respectant strictement la norme EIA-485
-*  Isolation de fonctionnement électrique et logique
-*  Facilité de diagnostic grâce aux leds par liaison  |  ![Topologie étoile G-Bus](img/hub-light.jpg)]
-
-
-#### [**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=HUB)
-
+<BR /><BR />
 
 **Questions - Réponses** 
 ---------------------------------
