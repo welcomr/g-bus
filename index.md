@@ -5,61 +5,45 @@
 **Le PoE pour RS485**
 ---------------------
 
-
 **Véhiculez l'alimentation et les données de vos bus industriels dans un seul câble RJ45**
-
-
 *G-Bus est une spécification de mise en oeuvre ouverte, permettant de normaliser les bonnes pratiques et faciliter la compatibilité entre produits*
-
-
 #### [Échanger avec un expert ](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=EXPERT)
 
-
-—
+<BR /><BR />
 
 
 **Mise en oeuvre normalisée**
 -----------------------------
 
+Le déploiement n'utilise que des prises RJ45 standard, existantes ou non, mais toujours réutilisables.
+La spécification se concentre sur chaque liaison point à point et repose sur des périphériques pour constituer le bus à proprement parler (voir ci-dessous).
 
-Le déploiement n'utilise que des prises RJ45 standard, existantes ou non, mais toujours réutilisables
-
+Les paires de la RJ45 sont affectées de manière standardisée afin de permettre la fourniture de :
 
 *  **Une alimentation électrique pour l'électronique**
-
 12V pour alimenter le fonctionnement du périphérique
 
-
 *  **Une alimentation de puissance**
-  
-
-
 12-48V pour alimenter un accessoire de puissance
 
-
 *  **Un bus de communication RS485**
-  
-
-
 100% conforme EIA-485
 
-
-—
-
+<BR /><BR />
 
 **Avantages**
 -------------
 
 
-*  Mise en oeuvre rapide, modulaire et robuste grâce à la prise RJ45
+*  ⚡️ Mise en oeuvre rapide, modulaire et robuste grâce à la prise RJ45
   
-*  La standardisation permet un déploiement sécurisé au niveau électrique
+*  ⛑️ La standardisation permet un déploiement sécurisé au niveau électrique
   
-*  Documentation unique et pérenne pour l'ensemble des périphériques
+*  📑 Documentation unique et pérenne pour l'ensemble des périphériques
   
-*  Sous-traitance et réutilisation simplifiées car la qualité de la liaison est certifiable
+*  👷🏻 Sous-traitance et réutilisation simplifiées car la qualité de la liaison est certifiable
   
-*  Possibilités d'observabilité et d'audit étendues
+*  🔎 Possibilités d'observabilité et d'audit étendues
   
 
 <BR /><BR />
@@ -90,8 +74,10 @@ OSDP est un protocole de communication utilisé pour permettre à des appareils 
 G-Bus est donc tout à fait adapté pour connecter des périphériques OSDP, tout en apportant ses avantages dans la mise en œuvre.
 
 ### **Pourquoi G-bus "Light" ? Y a-t-il un G-bus "non-light" ?**
-On parle de G-Bus Power et G-Bus Light selon respectivement que le bus transporte une alimentation de puissance ou non.
-Lorsque ce n’est pas précisé, on ne peut pas présupposer qu’une alimentation de puissance sera présente et donc on considère que c’est à minima un G-Bus Light.
+Tous les périphériques ne nécessitent pas de puissance, or cela influe beaucoup sur le prix de la solution mise en oeuvre. L'alimentation de puissance est donc optionnelle en G-Bus. On parle de G-Bus Power et G-Bus Light selon respectivement que le bus transporte une alimentation de puissance ou non.
+Lorsque ce n’est pas précisé, on *ne peut pas* présupposer qu’une alimentation de puissance sera présente et donc on considère que c’est à minima un G-Bus Light.
+
+<BR /><BR />
 
 **Qui nous sommes ?** 
 ---------------------------------
