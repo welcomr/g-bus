@@ -6,7 +6,7 @@
 ## Véhiculez l'alimentation et les données de vos bus industriels dans un seul câble RJ45
 ### G-Bus est une spécification de mise en oeuvre ouverte, permettant de normaliser les bonnes pratiques et faciliter la compatibilité entre produits
 
-#### [Échanger avec un expert ](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=EXPERT)
+#### [Contactez-nous !](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=EXPERT)
 
 <BR /><BR />
 
@@ -54,9 +54,9 @@ Les paires de la RJ45 sont affectées de manière standardisée afin de permettr
 
 | **Splitter RS485** ||
 | :------------ | ------------ |
-| Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.<BR /><BR />[**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=SPLIT)  |  <img src="img/splitter.jpg" width="250" height="250"> |
+| Un Splitter G-bus permet de convertir n'importe quel périphérique RS485 alimenté en 12V en périphérique G-bus.<BR /><BR />[Parlons-en](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=SPLIT)  |  <img src="img/splitter.jpg" width="250" height="250"> |
 | **Hub RS485** ||
-| <img src="img/hub-light.png" width="250" height="250"> | Un Hub G-bus permet de connecter un ensemble de liaisons G-bus indépendantes pour former un bus.<BR />*  Câblage en étoile tout en respectant strictement la norme EIA-485<BR />*  Isolation de fonctionnement électrique et logique<BR />*  Facilité de diagnostic grâce aux leds par liaison<BR /><BR />[**Je veux l’essayer !**](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=HUB) |
+| <img src="img/hub-light.png" width="250" height="250"> | Un Hub G-bus permet de connecter un ensemble de liaisons G-bus indépendantes pour former un bus.<BR />*  Câblage en étoile tout en respectant strictement la norme EIA-485<BR />*  Isolation de fonctionnement électrique et logique<BR />*  Facilité de diagnostic grâce aux leds par liaison<BR /><BR />[Parlons-en](https://coda.io/form/G-Bus_dW-qvQxBeKl?Origin=HUB) |
 
 
 <BR /><BR />
